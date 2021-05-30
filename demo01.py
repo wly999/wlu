@@ -28,7 +28,4 @@ print(name)
 a = input("请输入:")
 b = input("请输入:")
 print("字数",len(a)+len(b))
-"""练习：通过代码获取2段不同的代码的内容，并计算他们长度的值"""
-a = input("请输入:")
-b = input("请输入:")
-print("字数",len(a)+len(b))
+
