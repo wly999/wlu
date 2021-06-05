@@ -24,8 +24,21 @@ print(name)
 # print("input获取的值:",a+b)
 # a="KKHOJHI ojkojk"
 # print(len(a))
-"""练习：通过代码获取2段不同的代码的内容，并计算他们长度的值"""
-a = input("请输入:")
-b = input("请输入:")
-print("字数",len(a)+len(b))
+# """练习：通过代码获取2段不同的代码的内容，并计算他们长度的值"""
+# a = input("请输入:")
+# b = input("请输入:")
+# print("字数",len(a)+len(b))
 
+
+
+#元组,下标从0开始编号
+a =(1,2,3,"hahah","hahah","hehe",True,False)#元组可以装任何类型
+print(a[-1])
+# 切片
+
+# # 查找下标
+# print(a.count())
+# 二维元组
+# a =(1,2,3,"hahah","hahah","hehe",True,False)#元组可以装任何类型
+# b=(a,"haha","xixi")
+# print(b[0][1])
