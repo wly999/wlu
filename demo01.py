@@ -33,7 +33,8 @@ print(name)
 
 #元组,下标从0开始编号
 a =(1,2,3,"hahah","hahah","hehe",True,False)#元组可以装任何类型
-print(a[-1])
+print(a[0:3])
+print(a[6:7])
 # 切片
 
 # # 查找下标
